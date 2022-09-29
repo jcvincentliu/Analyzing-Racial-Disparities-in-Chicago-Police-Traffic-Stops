@@ -10,3 +10,5 @@ Participants will produce a report and set of Jupyter notebooks documenting a re
 Amanda Kube
 
 ### Students (please add your name and email address)
+
+Vincent Liu, jliu48@uchicago.edu
