@@ -12,5 +12,7 @@ Amanda Kube
 ### Students (please add your name and email address)
 
 Vincent Liu, jliu48@uchicago.edu
+
 Yu-Hsuan Chou, yuhsuanchou@uchicago.edu
+
 Justin Kim, jykim21@uchicago.edu
