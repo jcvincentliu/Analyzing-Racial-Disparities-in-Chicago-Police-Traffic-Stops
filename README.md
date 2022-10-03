@@ -17,4 +17,6 @@ Yu-Hsuan Chou, yuhsuanchou@uchicago.edu
 
 Justin Kim, jykim21@uchicago.edu
 
+Gabrielle Meyers, gmeyers1@uchicago.edu
+
 Emily Yeh, fyeh@uchicago.edu
