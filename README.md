@@ -1,22 +1,13 @@
-# 2022-bpi-clinic
+# Analyzing Police Traffic Stops in Chicago
 
-## Project Deliverable
+## Project Information and Objectives
 
-Participants will produce a report and set of Jupyter notebooks documenting a regression-adjusted benchmark test on traffic stops in Chicago. The analysis should test for evidence of discrimination in stop rates while controlling for factors like crime, location, and traffic hazards (as data allows). The project will also include a limited analysis on whether traffic stops impact crime. Students will perform the analysis and will work with BPI mentors to draft descriptions of the methodology and analysis that are accessible and understandable to a wider audience.
+The repository contains a series of works done for BPI (Business and Professional People for Public Interest), a non-profit organization, in the Data Classic Clinc class, a practicum course organized and hosted by DSI (Data Science Institute) at the University of Chicago. As an ongoing collaborative with BPI, the poject has two objectives: analyzing racial disparaties in Chicago traffic stops and investigating potential associations between the use of traffic stop practice and the crime rates of an area. The two goals are achieved through conducting explorative analysis, benchmark analysis, and poisson logistic regressions. Wholistically, the project tries to see if Chicago Police Officers stopped drivers differently based on their race and if such differences were driven by extrinstic reasons, such as high crime activies or intrinstic reasons, such as officers' own biases. Some parts of the work replicated established literature, for example, [*Wood et al., 2018*](https://www.semanticscholar.org/paper/An-Analysis-of-the-Metropolitan-Nashville-Police-%E2%80%99-Chohlas-Wood-Goel/ea1e629021ab3e4f6b548b7d11f9ae12b07df83e).   
 
-## Participants (Fall 2022)
+***NOTE***: The branch contains ONLY my part of the project. 
 
-### Mentors:
-Amanda Kube
 
-### Students (please add your name and email address)
+### Participants
+**Mentor**: Amanda Kube
 
-Vincent Liu, jliu48@uchicago.edu
-
-Yu-Hsuan Chou, yuhsuanchou@uchicago.edu
-
-Justin Kim, jykim21@uchicago.edu
-
-Gabrielle Meyers, gmeyers1@uchicago.edu
-
-Emily Yeh, fyeh@uchicago.edu
+**Students**: Vincent Liu, Yu-Hsuan Chou, Justin Kim, Gabrielle Meyers, Emily Yeh
