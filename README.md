@@ -25,6 +25,7 @@ The repository contains a series of works done for BPI (Business and Professiona
   *  `probability.py`: Python file to calculate the probability using IDOT data <br/>
      To see the output: First clone the repository, locate to this folder, type `Python3 probability.py` in the terminal, and press enter
 * `cleaning_idot.py`: Helper functions from Emily to do some basic cleanings of the IDOT data 
+* `2010population_by_district.csv`: 2010 Chicago police districts population data
 * `README.md`: This file
 
 ## Appreciation
