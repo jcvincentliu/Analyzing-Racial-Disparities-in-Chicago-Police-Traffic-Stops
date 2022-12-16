@@ -22,7 +22,7 @@ The repository contains a series of works done for BPI (Business and Professiona
   * output_data_and_graphs: Outputted data and figuers (produced using *matplotlib* and *pandas* libraries) 
 * Age-adjusted Probability Calculation by Race in Chicago:
   * `Probability_calculation.ipynb`: Jupyter notebook file in which I cleaned the Census and ACS data and plotted a splined scatter plot about the probaility of being in each age group, given the person's race
-    *  `probability.py`: Python file to calculate the probability using IDOT data <br/>
+  *  `probability.py`: Python file to calculate the probability using IDOT data <br/>
      To see the output: First clone the repository, locate to this folder, type `Python3 probability.py` in the terminal, and press enter
 * `cleaning_idot.py`: Helper functions from Emily to do some basic cleanings of the IDOT data 
 * `README.md`: This file
